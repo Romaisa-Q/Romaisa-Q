@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Romaisa-Q
+- 👋 Hi, I’m Nosaiba-Q
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning webdevelopment..
 
